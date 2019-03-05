@@ -1,0 +1,14 @@
+/Users/sammarks/Code/dotnet/GraphQLTestApp/bin/Debug/netcoreapp2.2/GraphQLTestApp.deps.json
+/Users/sammarks/Code/dotnet/GraphQLTestApp/bin/Debug/netcoreapp2.2/GraphQLTestApp.runtimeconfig.json
+/Users/sammarks/Code/dotnet/GraphQLTestApp/bin/Debug/netcoreapp2.2/GraphQLTestApp.runtimeconfig.dev.json
+/Users/sammarks/Code/dotnet/GraphQLTestApp/bin/Debug/netcoreapp2.2/GraphQLTestApp.dll
+/Users/sammarks/Code/dotnet/GraphQLTestApp/bin/Debug/netcoreapp2.2/GraphQLTestApp.pdb
+/Users/sammarks/Code/dotnet/GraphQLTestApp/obj/Debug/netcoreapp2.2/GraphQLTestApp.csprojAssemblyReference.cache
+/Users/sammarks/Code/dotnet/GraphQLTestApp/obj/Debug/netcoreapp2.2/GraphQLTestApp.csproj.CoreCompileInputs.cache
+/Users/sammarks/Code/dotnet/GraphQLTestApp/obj/Debug/netcoreapp2.2/GraphQLTestApp.RazorAssemblyInfo.cache
+/Users/sammarks/Code/dotnet/GraphQLTestApp/obj/Debug/netcoreapp2.2/GraphQLTestApp.RazorAssemblyInfo.cs
+/Users/sammarks/Code/dotnet/GraphQLTestApp/obj/Debug/netcoreapp2.2/GraphQLTestApp.AssemblyInfoInputs.cache
+/Users/sammarks/Code/dotnet/GraphQLTestApp/obj/Debug/netcoreapp2.2/GraphQLTestApp.AssemblyInfo.cs
+/Users/sammarks/Code/dotnet/GraphQLTestApp/obj/Debug/netcoreapp2.2/GraphQLTestApp.RazorTargetAssemblyInfo.cache
+/Users/sammarks/Code/dotnet/GraphQLTestApp/obj/Debug/netcoreapp2.2/GraphQLTestApp.dll
+/Users/sammarks/Code/dotnet/GraphQLTestApp/obj/Debug/netcoreapp2.2/GraphQLTestApp.pdb
